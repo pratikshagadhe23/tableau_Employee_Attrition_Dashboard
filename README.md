@@ -12,17 +12,18 @@ The primary objectives of this dashboard are to:
 - Provide insights into employee age distribution and attrition rates by gender.
 - Present job satisfaction ratings across different job roles.
 
-## Dataset
-The dataset used for this dashboard includes information on employees, their demographics, job roles, and attrition status. Key attributes in the dataset include:
-- Employee Count
-- Attrition Count
-- Attrition Rate
-- Active Employees
-- Average Age
-- Department
-- Education Field
-- Gender
-- Job Satisfaction Rating
+## Sheet Wise Overview:
+1. Key Performance Indicators (KPIs): Displays critical metrics such as overall attrition rate, average job satisfaction score, and average employee tenure.
+2. Employee Count: Displays the total number of employees.
+3. Attrition Count: Shows the number of employees who have left the organization.
+4. Attrition Rate: Indicates the percentage of employees who have left.
+5. Active Employees: Current number of employees.
+6. Average Age: Average age of employees.
+7. Department Wise Attrition: Pie chart depicting attrition rates across different departments.
+8. Number of Employees by Age Group: Bar chart showing the distribution of employees across various age groups.
+9. Job Satisfaction Rating: Heatmap illustrating job satisfaction across different job roles.
+10. Education Field Wise Attrition: Horizontal bar chart displaying attrition rates across various educational backgrounds.
+11. Attrition Rate by Gender for Different Age Groups: Pie charts showing gender-wise attrition rates for various age groups.
 
 ## Visualizations
 The dashboard includes the following visualizations:
@@ -32,9 +33,6 @@ The dashboard includes the following visualizations:
 - **Job Satisfaction Rating**: A table showing job satisfaction ratings across various job roles.
 - **Education Field Wise Attrition**: A bar chart illustrating attrition rates across different education fields.
 - **Attrition Rate by Gender for Different Age Groups**: Donut charts showing attrition rates by gender for different age groups.
-
-## Usage
-To view the dashboard, visit the [HR Analytics Dashboard on Tableau Public](https://public.tableau.com/app/profile/pratiksha.gadhe/viz/HR_ANALYTICS_DASHBOARD1_twbx/HRANALYTICSDASHBOARD).
 
 ### Accessing the Dashboard
 1. Click on the link above to access the dashboard on Tableau Public.
@@ -48,5 +46,6 @@ To view the dashboard, visit the [HR Analytics Dashboard on Tableau Public](http
 ## Contributing
 Contributions to improve the dashboard or add new features are welcome. Please fork the repository and create a pull request with your changes.
 
-
+## Link to Dashboard
+You can view the full dashboard on Tableau Public [here](https://public.tableau.com/app/profile/pratiksha.gadhe/viz/HR_ANALYTICS_DASHBOARD1_twbx/HRANALYTICSDASHBOARD).
 
