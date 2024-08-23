@@ -47,5 +47,5 @@ The dashboard includes the following visualizations:
 Contributions to improve the dashboard or add new features are welcome. Please fork the repository and create a pull request with your changes.
 
 ## Link to Dashboard
-You can view the full dashboard on Tableau Public [here](https://public.tableau.com/app/profile/pratiksha.gadhe/viz/HR_ANALYTICS_DASHBOARD1_twbx/HRANALYTICSDASHBOARD).
+You can view the full dashboard on Tableau Public [here](https://public.tableau.com/app/profile/pratiksha.gadhe/viz/EmployeeAttritionDashboard_17244382710900/HRANALYTICSDASHBOARD_1).
 
