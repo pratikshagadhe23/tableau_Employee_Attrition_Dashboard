@@ -3,7 +3,7 @@
 ## Overview
 This repository contains an EMPLOYEE ATTRITION Dashboard created using Tableau Public. The dashboard provides insights into various aspects of EMPLOYEE ATTRITION, including employee count, attrition rates, age distribution, job satisfaction, and more. It is designed to help HR professionals make data-driven decisions to improve workforce management and employee satisfaction.
 
-![EMPLOYEE ATTRITION DASHBOARD](HR_Dash.png)
+![EMPLOYEE ATTRITION DASHBOARD](employee_attrition_dash.png)
 
 ## Objectives
 The primary objectives of this dashboard are to:
